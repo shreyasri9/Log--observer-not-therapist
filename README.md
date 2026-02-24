@@ -1,18 +1,13 @@
-# Log V0
+# Log V1
 
 journaling and habit tracker
 
 
 # Features
-- Saving to logs
-- In the moment(no saving)
-- Accessing your saved logs
-- Saving and displaying only the current log
-- Search for specific logs
-- Clock-in log
-- Access habit log
-- Exit
+- web app
+- on phone
+- 30 days personal training data
 
 
 ## How to run
-python main.py
+python app.py

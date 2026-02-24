@@ -2,3 +2,7 @@ log.txt
 habits.txt
 test_codes.py
 __pycache__/
+*.pyc
+log.db
+.vscode/
+.env

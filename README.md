@@ -6,7 +6,12 @@ journaling and habit tracker
 # Features
 - web app
 - on phone
-- 30 days personal training data
+- Backend (Flask)
+- Database (SQLite)
+- Authentication
+- Deployment (Render)
+- Mobile access
+- CI/CD workflow (GitHub → Render)
 
 
 ## How to run
